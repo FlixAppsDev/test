@@ -23,12 +23,11 @@
       "MaxInterstitial":"",
       "MaxBanner":"",
       "MaxNative" : "",
-
-      "AdsCount" : "3",  
+	    
       "IronKey" : "",
           
      
-      "Switch":"admob"
+      "Switch":"fan"
 	  
  
     }
