@@ -1,0 +1,92 @@
+{
+
+
+  "data":[
+    {
+      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+      "AdmobNative" : "ca-app-pub-3940256099942544/2247696110",
+      "AdmobOpen" : "ca-app-pub-3940256099942544/3419835294",
+	  
+      "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FanBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+      "FanNative" : "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+	  	  
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+      "UnityBanner":"Banner_Android",
+      "UnityReword":"Rewarded_Android",
+	  
+      "ApplovinInterstitial":"",
+      "ApplovinBanner":"",
+	    
+      "MaxInterstitial":"",
+      "MaxBanner":"",
+      "MaxNative" : "",
+
+      "AdsCount" : "5",  
+      "IronKey" : "",
+          
+      "ActiveApp" : "yes",
+     
+      "Switch":"admob"
+	  
+ 
+    }
+  ]
+  ,
+  "list": [
+    {
+      "title": "La Casa de Papel now has a Korean version",
+      "content1": "Le jeu massivement populaire PUBG Mobile a finalement franchi la barre magique du milliard de téléchargements sur Android et iOS. Le jeu continue de rester pertinent malgré son interdiction dans l'un des marchés les plus lucratifs du monde, l'Inde. PUBG Mobile a également un successeur en préparation, appelé PUBG : New State",
+      "content2": "Le jeu massivement populaire PUBG Mobile a finalement franchi la barre magique du milliard de téléchargements sur Android et iOS. Le jeu continue de rester pertinent malgré son interdiction dans l'un des marchés les plus lucratifs du monde, l'Inde. PUBG Mobile a également un successeur en préparation, appelé PUBG : New State",
+      "image": "https://img.filmsactu.net/datas/fiches/n/e/netflix/n/netflix-61e7d80e227d2.jpg",
+      "video": "https://file-examples.com/storage/fe783a5cbb6323602a28c66/2017/04/file_example_MP4_480_1_5MG.mp4"
+
+
+
+    },
+
+    {
+      "title": "THE STORY OF THE SEQUEL BECOMES CLEARER",
+      "content1": "Le jeu massivement populaire PUBG Mobile a finalement franchi la barre magique du milliard de téléchargements sur Android et iOS. Le jeu continue de rester pertinent malgré son interdiction dans l'un des marchés les plus lucratifs du monde, l'Inde. PUBG Mobile a également un successeur en préparation, appelé PUBG : New State",
+      "content2": "Le jeu massivement populaire PUBG Mobile a finalement franchi la barre magique du milliard de téléchargements sur Android et iOS. Le jeu continue de rester pertinent malgré son interdiction dans l'un des marchés les plus lucratifs du monde, l'Inde. PUBG Mobile a également un successeur en préparation, appelé PUBG : New State",
+      "image": "https://www.journaldugeek.com/content/uploads/2022/05/template-jdg-2022-05-03t092042-887.jpg",
+      "video": "https://file-examples.com/storage/fe783a5cbb6323602a28c66/2017/04/file_example_MP4_480_1_5MG.mp4"
+
+    },
+    {
+      "title": "The Witcher: everything that",
+      "content1": "Le jeu massivement populaire PUBG Mobile a finalement franchi la barre magique du milliard de téléchargements sur Android et iOS. Le jeu continue de rester pertinent malgré son interdiction dans l'un des marchés les plus lucratifs du monde, l'Inde. PUBG Mobile a également un successeur en préparation, appelé PUBG : New State",
+      "content2": "Le jeu massivement populaire PUBG Mobile a finalement franchi la barre magique du milliard de téléchargements sur Android et iOS. Le jeu continue de rester pertinent malgré son interdiction dans l'un des marchés les plus lucratifs du monde, l'Inde. PUBG Mobile a également un successeur en préparation, appelé PUBG : New State",
+      "image": "https://www.lesoir.be/sites/default/files/dpistyles_v2/ls_16_9_864w/2018/10/10/node_183539/24684134/public/2018/10/10/B9717206004Z.1_20181010095538_000+G5DC5Q7RU.1-0.jpg?itok=9JW0ZugB1557581356",
+      "video": "https://file-examples.com/storage/fe783a5cbb6323602a28c66/2017/04/file_example_MP4_480_1_5MG.mp4"
+
+    },
+    {
+      "title": "Spider-Man No Way Home",
+      "content1": "Le jeu massivement populaire PUBG Mobile a finalement franchi la barre magique du milliard de téléchargements sur Android et iOS. Le jeu continue de rester pertinent malgré son interdiction dans l'un des marchés les plus lucratifs du monde, l'Inde. PUBG Mobile a également un successeur en préparation, appelé PUBG : New State",
+      "content2": "Le jeu massivement populaire PUBG Mobile a finalement franchi la barre magique du milliard de téléchargements sur Android et iOS. Le jeu continue de rester pertinent malgré son interdiction dans l'un des marchés les plus lucratifs du monde, l'Inde. PUBG Mobile a également un successeur en préparation, appelé PUBG : New State",
+      "image": "https://img.filmsactu.net/datas/fiches/n/e/netflix/n/netflix-61e7d80e227d2.jpg",
+      "video": "https://file-examples.com/storage/fe783a5cbb6323602a28c66/2017/04/file_example_MP4_480_1_5MG.mp4"
+
+    },
+    {
+      "title": "Blacklight: Liam Neeson breaks faces and thinks",
+      "content1": "Le jeu massivement populaire PUBG Mobile a finalement franchi la barre magique du milliard de téléchargements sur Android et iOS. Le jeu continue de rester pertinent malgré son interdiction dans l'un des marchés les plus lucratifs du monde, l'Inde. PUBG Mobile a également un successeur en préparation, appelé PUBG : New State",
+      "content2": "Le jeu massivement populaire PUBG Mobile a finalement franchi la barre magique du milliard de téléchargements sur Android et iOS. Le jeu continue de rester pertinent malgré son interdiction dans l'un des marchés les plus lucratifs du monde, l'Inde. PUBG Mobile a également un successeur en préparation, appelé PUBG : New State",
+      "image": "https://img.filmsactu.net/datas/fiches/n/e/netflix/n/netflix-61e7d80e227d2.jpg",
+      "video": "https://file-examples.com/storage/fe783a5cbb6323602a28c66/2017/04/file_example_MP4_480_1_5MG.mp4"
+
+    },
+    {
+      "title": "Blacklight: Liam Neeson breaks faces and thinks",
+      "content1": "Le jeu massivement populaire PUBG Mobile a finalement franchi la barre magique du milliard de téléchargements sur Android et iOS. Le jeu continue de rester pertinent malgré son interdiction dans l'un des marchés les plus lucratifs du monde, l'Inde. PUBG Mobile a également un successeur en préparation, appelé PUBG : New State",
+      "content2": "Le jeu massivement populaire PUBG Mobile a finalement franchi la barre magique du milliard de téléchargements sur Android et iOS. Le jeu continue de rester pertinent malgré son interdiction dans l'un des marchés les plus lucratifs du monde, l'Inde. PUBG Mobile a également un successeur en préparation, appelé PUBG : New State",
+      "image": "https://img.filmsactu.net/datas/fiches/n/e/netflix/n/netflix-61e7d80e227d2.jpg",
+      "video": "https://file-examples.com/storage/fe783a5cbb6323602a28c66/2017/04/file_example_MP4_480_1_5MG.mp4"
+
+    }
+
+  ]
+}
