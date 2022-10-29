@@ -34,6 +34,10 @@
          "name":"Pop Music",
          "description":"Enjoy with this list music ,play it now and listen."
       },
+	{
+         "name":"Native",
+         "description":"Native"
+      },
       {
          "name":"Jazz Music",
          "description":"Enjoy with this list music ,play it now and listen."
@@ -45,6 +49,10 @@
       {
          "name":"Raï Music",
          "description":"Enjoy with this list music ,play it now and listen."
+      },
+	   {
+         "name":"Native",
+         "description":"Native"
       }
    ],
    "Rap Music":[
@@ -63,6 +71,10 @@
          "genre":"Rap Music",
          "url":"https://hshb.host/music/1.mp3"
       },
+	{
+         "name":"Native",
+         "description":"Native"
+      },
       {
          "name":"Music 4",
          "genre":"Rap Music",
@@ -77,6 +89,10 @@
          "name":"Music 6",
          "genre":"Rap Music",
          "url":"https://hshb.host/music/1.mp3"
+      },
+	{
+         "name":"Native",
+         "description":"Native"
       }
    ],
    "Rock Music":[
@@ -95,6 +111,10 @@
          "genre":"Rock Music",
          "url":"https://hshb.host/music/1.mp3"
       },
+	{
+         "name":"Native",
+         "description":"Native"
+      },
       {
          "name":"Music 4",
          "genre":"Rock Music",
@@ -109,7 +129,11 @@
          "name":"Music 6",
          "genre":"Rock Music",
          "url":"https://hshb.host/music/1.mp3"
-      }
+      },
+	{
+         "name":"Native",
+         "description":"Native"
+      },
    ],
    "Pop Music":[
       {
@@ -127,6 +151,10 @@
          "genre":"Pop Music",
          "url":"https://hshb.host/music/1.mp3"
       },
+	   {
+         "name":"Native",
+         "description":"Native"
+      },
       {
          "name":"Music 4",
          "genre":"Pop Music",
@@ -141,6 +169,9 @@
          "name":"Music 6",
          "genre":"Pop Music",
          "url":"https://hshb.host/music/1.mp3"
+      },{
+         "name":"Native",
+         "description":"Native"
       }
    ],
    "Jazz Music":[
@@ -159,6 +190,10 @@
          "genre":"Jazz Music",
          "url":"https://hshb.host/music/1.mp3"
       },
+	   {
+         "name":"Native",
+         "description":"Native"
+      },
       {
          "name":"Music 4",
          "genre":"Jazz Music",
@@ -173,6 +208,10 @@
          "name":"Music 6",
          "genre":"Jazz Music",
          "url":"https://hshb.host/music/1.mp3"
+      },
+	   {
+         "name":"Native",
+         "description":"Native"
       }
    ],
    "Raï Music":[
@@ -191,6 +230,10 @@
          "genre":"Raï Music",
          "url":"https://hshb.host/music/1.mp3"
       },
+	   {
+         "name":"Native",
+         "description":"Native"
+      },
       {
          "name":"Music 4",
          "genre":"Raï Music",
@@ -205,6 +248,10 @@
          "name":"Music 6",
          "genre":"Raï Music",
          "url":"https://hshb.host/music/1.mp3"
+      },
+	   {
+         "name":"Native",
+         "description":"Native"
       }
    ]
 }
