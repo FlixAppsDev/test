@@ -1,24 +1,18 @@
 {
-    "data":[
-    {
-    
-      "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
-      "FanBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
-      "FanNative" : "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
-	  	 
-	  
-      "ApplovinInterstitial":"",
-      "ApplovinBanner":"",
-	    
-      "MaxInterstitial":"",
-      "MaxBanner":"",
-      "MaxNative" : "",
-
-      "IronKey" : "170e09a55",
-       "AdsCount" : "3",  
-      "ActiveApp" : "yes",
-     
-      "Switch":"fan"
+   "data":[
+      {
+         "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+         "FanBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+         "FanNative":"IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+         "ApplovinInterstitial":"",
+         "ApplovinBanner":"",
+         "MaxInterstitial":"",
+         "MaxBanner":"",
+         "MaxNative":"",
+         "IronKey":"170e09a55",
+         "AdsCount":"3",
+         "ActiveApp":"yes",
+         "Switch":"fan"
       }
    ],
    "Genres":[
@@ -34,7 +28,7 @@
          "name":"Pop Music",
          "description":"Enjoy with this list music ,play it now and listen."
       },
-	{
+      {
          "name":"Native",
          "description":"Native"
       },
@@ -50,7 +44,7 @@
          "name":"Raï Music",
          "description":"Enjoy with this list music ,play it now and listen."
       },
-	   {
+      {
          "name":"Native",
          "description":"Native"
       }
@@ -71,9 +65,10 @@
          "genre":"Rap Music",
          "url":"https://hshb.host/music/1.mp3"
       },
-	{
-         "name":"Native",
-         "description":"Native"
+      {
+         "name":"",
+         "genre":"",
+         "url":""
       },
       {
          "name":"Music 4",
@@ -90,9 +85,10 @@
          "genre":"Rap Music",
          "url":"https://hshb.host/music/1.mp3"
       },
-	{
-         "name":"Native",
-         "description":"Native"
+      {
+         "name":"",
+         "genre":"",
+         "url":""
       }
    ],
    "Rock Music":[
@@ -111,9 +107,10 @@
          "genre":"Rock Music",
          "url":"https://hshb.host/music/1.mp3"
       },
-	{
-         "name":"Native",
-         "description":"Native"
+      {
+         "name":"",
+         "genre":"",
+         "url":""
       },
       {
          "name":"Music 4",
@@ -130,10 +127,11 @@
          "genre":"Rock Music",
          "url":"https://hshb.host/music/1.mp3"
       },
-	{
-         "name":"Native",
-         "description":"Native"
-      },
+      {
+         "name":"",
+         "genre":"",
+         "url":""
+      }
    ],
    "Pop Music":[
       {
@@ -151,9 +149,10 @@
          "genre":"Pop Music",
          "url":"https://hshb.host/music/1.mp3"
       },
-	   {
-         "name":"Native",
-         "description":"Native"
+      {
+         "name":"",
+         "genre":"",
+         "url":""
       },
       {
          "name":"Music 4",
@@ -169,9 +168,11 @@
          "name":"Music 6",
          "genre":"Pop Music",
          "url":"https://hshb.host/music/1.mp3"
-      },{
-         "name":"Native",
-         "description":"Native"
+      },
+      {
+         "name":"",
+         "genre":"",
+         "url":""
       }
    ],
    "Jazz Music":[
@@ -190,9 +191,10 @@
          "genre":"Jazz Music",
          "url":"https://hshb.host/music/1.mp3"
       },
-	   {
-         "name":"Native",
-         "description":"Native"
+      {
+         "name":"",
+         "genre":"",
+         "url":""
       },
       {
          "name":"Music 4",
@@ -209,9 +211,10 @@
          "genre":"Jazz Music",
          "url":"https://hshb.host/music/1.mp3"
       },
-	   {
-         "name":"Native",
-         "description":"Native"
+      {
+         "name":"",
+         "genre":"",
+         "url":""
       }
    ],
    "Raï Music":[
@@ -230,9 +233,10 @@
          "genre":"Raï Music",
          "url":"https://hshb.host/music/1.mp3"
       },
-	   {
-         "name":"Native",
-         "description":"Native"
+      {
+         "name":"",
+         "genre":"",
+         "url":""
       },
       {
          "name":"Music 4",
@@ -249,9 +253,10 @@
          "genre":"Raï Music",
          "url":"https://hshb.host/music/1.mp3"
       },
-	   {
-         "name":"Native",
-         "description":"Native"
+      {
+         "name":"",
+         "genre":"",
+         "url":""
       }
    ]
 }
